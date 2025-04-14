@@ -1,2 +1,2 @@
 
-<a href="https://github.com/BevTucker/PCDE-Activity-9.1-Public">Activity 9.2</a> 
+<a href="https://bevtucker.github.io/PCDE-Activity-9.1/">Activity 9.2</a> 
